@@ -1,4 +1,4 @@
-# Spotify Audio Feature Analysis — Predicting Musical Taste from Sound
+# Spotify Audio Feature Analysis 
 
 Can a song's measurable sound properties predict whether someone will like it? This project analyses **2,017 Spotify tracks** using supervised and unsupervised machine learning to find out — combining classification, dimensionality reduction, and clustering to study the relationship between audio features and personal preference.
 

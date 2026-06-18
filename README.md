@@ -54,5 +54,3 @@ jupyter notebook AE3_Spotify_Analysis.ipynb
 ```
 
 ---
-
-*Built by Prithviraj — data science student focused on applying ML to practical analysis problems.*
